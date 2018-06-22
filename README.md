@@ -53,9 +53,10 @@ Year : 2016
 ## SKILLS
 
 - Python (intermediate)
-- Falcon
-- Ruby on Rails
-- Html and Jquery
+- Falcon, Flask
+- Ruby on Rails(Basics)
+- Javascript, Html and Jquery
+- Vuejs
 - AWS
 Learn and use whatever necessary :)
 
