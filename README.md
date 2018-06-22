@@ -1,6 +1,6 @@
 ## SUMMARY
 
-25 years old who loves Web-Back-end-Development.
+26 years old who loves Web-Back-end-Development.
 Lived in Bangalore from july2016. I like being around like minded
 people, and learn from them.
 
@@ -52,17 +52,15 @@ Year : 2016
 
 ## SKILLS
 
-● Python (intermediate)
-● Falcon
-● Ruby on Rails
-● Html and Jquery
-● AWS
+- Python (intermediate)
+- Falcon
+- Ruby on Rails
+- Html and Jquery
+- AWS
 Learn and use whatever necessary :)
 
 ## REFERENCES
 
-LinkedIn:[https://in.linkedin.com/in/sunil-kumar-ba2a14106](https://in.linkedin.com/in/sunil-kumar-ba2a14106)
-
-Github:[https://github.com/sunil16](https://github.com/sunil16)
-
-Bitbucket::[ https://bitbucket.org/sunil_root/](https://bitbucket.org/sunil_root/)
+LinkedIn: [https://in.linkedin.com/in/sunil-kumar-ba2a14106](https://in.linkedin.com/in/sunil-kumar-ba2a14106)
+Github: [https://github.com/sunil16](https://github.com/sunil16)
+Bitbucket: [ https://bitbucket.org/sunil_root/](https://bitbucket.org/sunil_root/)
