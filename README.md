@@ -61,6 +61,6 @@ Learn and use whatever necessary :)
 
 ## REFERENCES
 
-LinkedIn: [https://in.linkedin.com/in/sunil-kumar-ba2a14106](https://in.linkedin.com/in/sunil-kumar-ba2a14106)
-Github: [https://github.com/sunil16](https://github.com/sunil16)
-Bitbucket: [ https://bitbucket.org/sunil_root/](https://bitbucket.org/sunil_root/)
+- LinkedIn: [https://in.linkedin.com/in/sunil-kumar-ba2a14106](https://in.linkedin.com/in/sunil-kumar-ba2a14106)
+- Github: [https://github.com/sunil16](https://github.com/sunil16)
+- Bitbucket: [ https://bitbucket.org/sunil_root/](https://bitbucket.org/sunil_root/)
